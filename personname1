@@ -1,0 +1,17 @@
+{
+  "incidents": [{
+      "id": "Test1",
+      "creationtime": "2018-08-01T13:31:17-04:00",
+      "updatetime": "2018-08-01T04:40:41-05:00",
+      "description": "Road closure of Cary St",
+      "location": {
+        "street": "Cary St",
+        "direction": "BOTH_DIRECTIONS",
+        "polyline": "35.789151, -78.778970 35.790171, -78.777886"
+      },
+      "starttime": "2018-08-03T00:01:00-05:00",
+      "endtime": "2018-08-04T00:01:00-05:00",
+      "type": "ROAD_CLOSED"
+    }
+  ]
+}
